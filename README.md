@@ -41,3 +41,5 @@ Aplikacja nie korzysta bezpośrednio z konektorów do baz danych, ponieważ jej 
 Axios - Komunikacja z REST API
 
 Axios jest biblioteką HTTP dla przeglądarek i Node.js, która umożliwia wykonywanie zapytań HTTP do zewnętrznych serwerów, w tym do REST API. Jest powszechnie stosowany w aplikacjach React do pobierania danych z API i wysyłania żądań HTTP.
+
+https://axios-http.com/docs/intro
